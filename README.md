@@ -1,6 +1,6 @@
 ### Antoine Souesme
 
-JavaScript developer specifically in react, react-native and nextjs.
+JavaScript developer (react, react-native and nextjs).
 Currently working for [lapala](https://lapala.io/).
 
 ---

@@ -1,7 +1,10 @@
 ### Antoine Souesme
 
 JavaScript developer (react, react-native and nextjs).
-Currently working for [lapala](https://lapala.io/).
+
+Currently Freelance.
+
+Previously worked for [lapala](https://lapala.io/).
 
 ---
 
